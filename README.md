@@ -1,4 +1,4 @@
-# Project documentation archiv
+# Project documentation archive
 ## _by Jan Echebiri_
 This repository contains documentation (mostly as one pagers) for some of my past projects.
 Feel free to browse around.
