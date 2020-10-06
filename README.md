@@ -5,7 +5,7 @@ Feel free to browse around.
 
 As of now, the following projects are included in this section:
 
-### Kommunalplanung and Gamification (Komega Online):   
+### Kommunalplanung and Gamification _Local community politics & gamification_:   
     
 A simulation game made for multiple participants.
 It lets players 'control' the smartphone of a politician and decide on choices for the local community budget in the best interest of the party.    
